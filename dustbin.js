@@ -1,6 +1,6 @@
 class Dustbin
 {
-	constructor(x,y, radius)
+	constructor(x,y)
 	{
 		this.x=x;
 		this.y=y;
